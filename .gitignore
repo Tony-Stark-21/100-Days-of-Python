@@ -2,3 +2,6 @@
 __pycache__/
 venv/
 *.pyc
+*.sqlite
+*.sqlite-wal
+*.sqlite-shm
