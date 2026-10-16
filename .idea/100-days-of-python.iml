@@ -6,6 +6,7 @@
       <excludeFolder url="file://$MODULE_DIR$/Rain_Alert/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/habit-tracker/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-47-Amazon Price Tracker/.venv" />
     </content>
     <orderEntry type="jdk" jdkName="~\Downloads\100 Days of Python\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />

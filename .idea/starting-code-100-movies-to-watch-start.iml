@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$/StartingCode100moviestowatch">
       <excludeFolder url="file://$MODULE_DIR$/StartingCode100moviestowatch/.venv" />
     </content>
+    <orderEntry type="jdk" jdkName="~\Downloads\100 Days of Python\StartingCode100moviestowatch\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>

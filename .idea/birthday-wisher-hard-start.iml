@@ -4,6 +4,7 @@
     <content url="file://$MODULE_DIR$/birthday-wisher-hard-start">
       <excludeFolder url="file://$MODULE_DIR$/birthday-wisher-hard-start/.venv" />
     </content>
+    <orderEntry type="jdk" jdkName="~\Downloads\100 Days of Python\birthday-wisher-hard-start\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
