@@ -4,7 +4,6 @@
     <content url="file://$MODULE_DIR$/stock-news-hard-start">
       <excludeFolder url="file://$MODULE_DIR$/stock-news-hard-start/.venv" />
     </content>
-    <orderEntry type="jdk" jdkName="~\Downloads\100 Days of Python\stock-news-hard-start\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
