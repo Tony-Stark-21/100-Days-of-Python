@@ -11,7 +11,11 @@
       <excludeFolder url="file://$MODULE_DIR$/habit-tracker/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-50-Automated-Tinder(fake vr.)/.venv" />
       <excludeFolder url="file://$MODULE_DIR$/Day-51-Twitter_Complaint_Bot/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day 53-Data-Entry_Job_Automation/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Day-52-Instagram-Follower-Bot/.venv" />
+      <excludeFolder url="file://$MODULE_DIR$/Flask-Start/.venv" />
     </content>
+    <orderEntry type="jdk" jdkName="~\Downloads\100 Days of Python\.venv" jdkType="Python SDK" />
     <orderEntry type="sourceFolder" forTests="false" />
   </component>
 </module>
